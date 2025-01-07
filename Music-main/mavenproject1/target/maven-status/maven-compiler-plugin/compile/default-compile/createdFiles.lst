@@ -1,0 +1,5 @@
+com\mycompany\mavenproject1\JakartaRestConfiguration.class
+com\mycompany\mavenproject1\DAO\Dao.class
+com\mycompany\mavenproject1\helper\FactoryProvider.class
+com\mycompany\mavenproject1\resources\JakartaEE8Resource.class
+com\mycompany\mavenproject1\entities\User.class
